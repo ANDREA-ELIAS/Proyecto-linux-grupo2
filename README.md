@@ -27,11 +27,11 @@ Principalmente el objetivo es aplicar los conocimientos de administración de si
 - Verificación inicial
 
 ## 🌐 Servidor web containerizado
+- Contenedor Nginx Básico
+- Verificación
 
 
 
-
-## 🚀 Docker avanzado
 
 
 
